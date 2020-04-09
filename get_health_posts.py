@@ -2,8 +2,8 @@ import pandas as pd
 import praw
 import time
 
-my_client_id = "yixcjhi4bhbC_w"
-my_client_secret = "lqeYBL1SXuiTPLDc9zoeM1QbvnM"
+my_client_id = "[...]"
+my_client_secret = "[...]"
 my_user_agent = "CMNS801_research_project"
 
 reddit = praw.Reddit(client_id=my_client_id, client_secret=my_client_secret,
